@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+### I am Juan David Diaz, Born in 🇨🇴 , living in 🇦🇹
+
+- 🔭 I’m currently working on [https://www.imoblo.co](https://www.imoblo.co)
+- 🌱 I’m currently learning Smart Contract Development
+- 📫 My Personal Website: [https://www.cromasome.com](https://www.cromasome.com)
 
 <!--
 **juanitoddd/juanitoddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
