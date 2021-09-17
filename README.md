@@ -3,7 +3,9 @@
 ### I am Juan David Diaz, Born in 🇨🇴 , living in 🇦🇹
 
 - 🔭 I’m currently working on [https://www.imoblo.co](https://www.imoblo.co)
-- 🌱 I’m currently learning Smart Contract Development
+- 🌱 I’m currently learning:
+  - Rust
+  - Smart Contract Development
 - 📫 My Personal Website: [https://www.cromasome.com](https://www.cromasome.com)
 
 <!--
