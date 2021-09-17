@@ -4,8 +4,9 @@
 
 - 🔭 I’m currently working on [https://www.imoblo.co](https://www.imoblo.co)
 - 🌱 I’m currently learning:
-  - Rust
-  - Smart Contract Development
+  - ✨ Rust
+  - ✨ Substrate 
+  - ✨ Smart Contract Development
 - 📫 My Personal Website: [https://www.cromasome.com](https://www.cromasome.com)
 
 <!--
