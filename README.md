@@ -8,7 +8,7 @@
   - ✨ Rust
   - ✨ Substrate 
   - ✨ Smart Contract Development
-- 👯 I’m looking to collaborate on: [https://docs.substrate.io](https://docs.substrate.io/) based projects
+- 👯 I’m looking to collaborate on: [substrate](https://docs.substrate.io/) based projects
 - 📫 How to reach me:
   - My Personal Website: [https://www.cromasome.com](https://www.cromasome.com)
   - My Working Email: juand.diazd@gmail.com
