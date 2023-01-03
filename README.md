@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I am Juan David Diaz, Born in 🇨🇴 , living in 🇦🇹
+### I am Juan David Diaz, born in 🇨🇴 , living in 🇦🇹
 
 - 🔭 I’m was working on [https://www.soyweseed.com](https://www.soyweseed.com)
 - 🔭 I’m currently working on [https://23degrees.io/](https://23degrees.io/)
