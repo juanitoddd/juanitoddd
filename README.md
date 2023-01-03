@@ -2,13 +2,12 @@
 
 ### I am Juan David Diaz, Born in 🇨🇴 , living in 🇦🇹
 
-- 🔭 I’m was working on [https://www.imoblo.co](https://www.imoblo.co)
-- 🔭 I’m currently working on [https://app.23degrees.io/](https://app.23degrees.io/)
+- 🔭 I’m was working on [https://www.soyweseed.com](https://www.soyweseed.com)
+- 🔭 I’m currently working on [https://23degrees.io/](https://23degrees.io/)
 - 🌱 I’m currently learning:
   - ✨ Rust
-  - ✨ Substrate 
-  - ✨ Smart Contract Development
-- 👯 I’m looking to collaborate on: [substrate](https://docs.substrate.io/) based projects
+  - ✨ Machine Learning 
+  - ✨ Cryptography 
 - 📫 How to reach me:
   - My Personal Website: [https://www.cromasome.com](https://www.cromasome.com)
   - My Working Email: juand.diazd@gmail.com
