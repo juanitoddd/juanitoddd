@@ -7,11 +7,12 @@
 - 🌱 I’m currently learning:
   - ✨ Rust
   - ✨ Machine Learning 
-  - ✨ Cryptography 
+  - ✨ Cryptography
+<!--
 - 📫 How to reach me:
   - My Personal Website: [https://www.cromasome.com](https://www.cromasome.com)
   - My Working Email: juand.diazd@gmail.com
-
+-->
 <!--
 **juanitoddd/juanitoddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
