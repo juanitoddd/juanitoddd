@@ -2,8 +2,8 @@
 
 ### I am Juan David Diaz, born in 🇨🇴 , living in 🇦🇹
 
-- 🔭 I’m was working on [https://www.soyweseed.com](https://www.soyweseed.com)
-- 🔭 I’m currently working on [https://23degrees.io/](https://23degrees.io/)
+- 🔭 I’m currently working on [https://23degrees.io/](https://23degrees.io/) as Full stack engineer
+- 👀 I’m interested in ... data & vizualizations
 - 🌱 I’m currently learning:
   - ✨ Rust
   - ✨ Machine Learning 
